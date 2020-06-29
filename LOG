@@ -1,0 +1,6 @@
+execve("./greet_3", ["./greet_3", "Anna Dostoevskaya"], 0xbfc20b2c /* 60 vars */) = 0
+write(1, "Hello, dear ", 12)            = 12
+write(1, "Anna Dostoevskaya", 17)       = 17
+write(1, "\n", 1)                       = 1
+exit(0)                                 = ?
++++ exited with 0 +++
